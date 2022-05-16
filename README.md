@@ -42,4 +42,4 @@ Hollow shaft superficy : π(5.7/2)² = 25.52mm²
 
 Wire superficy : 2π(2.6/2)² + 4π(1.5/2)² = 17.69mm²
 
-17.69mm² < 33.18mm² => OK
+17.69mm² < 25.52mm² => OK
