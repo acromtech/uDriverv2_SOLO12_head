@@ -5,7 +5,7 @@ Quantity|Reference|Voltage|Intensity|Resistance|Detail
 ---|---|---|---|---|---|
 1|SLS X-Cube 850mAh lithium polymer batteries|24V(2x3S)|30C continous = 2 x 30 x 0.85 = 51A 60C burst = 2 x 60 x 0.85 = 102A |/|[More informations of SOLO batteries](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1.1/README.md#off-the-shelf-components)|
 1|[uDriverv2](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/tree/master/electronics/micro_driver_electronics)|
-2|[IPower GM2804 (+ AS5048A encoder)](https://www.robotshop.com/ca/fr/moteur-cardan-ipower-gm2804-avec-encodeur-as5048a.html)|10V|0.07-5A|5.57Ω|Hollow shaft diameter|5.7mm ([IPower GM2804 Drawings](https://user-images.githubusercontent.com/103576080/168556596-d6f692c8-2cbd-48c1-b92e-5072b6c10471.jpg))|
+2|[IPower GM2804 (+ AS5048A encoder)](https://www.robotshop.com/ca/fr/moteur-cardan-ipower-gm2804-avec-encodeur-as5048a.html)|10V|0.07-5A|5.57Ω|Hollow shaft diameter : 5.7mm ([IPower GM2804 Drawings](https://user-images.githubusercontent.com/103576080/168556596-d6f692c8-2cbd-48c1-b92e-5072b6c10471.jpg))|
 2|[AEDB-9140-A13 optical encoder](https://fr.rs-online.com/web/p/codeurs/7967806)|
 2|[I2S MEMS (MicroElectroMechanical Systems) microphone for Raspberry Pi]()|
 1|[Arducam OG02B10 2MP Global Shutter color camera module](https://www.robotshop.com/eu/fr/module-camera-couleur-arducam-2mp-global-shutter-og02b10-pivariety.html)|
